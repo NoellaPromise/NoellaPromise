@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noella Claire d'Assise Dushakimana</h1>
-<h2 align="center">A passionate full stack developer from Rwanda</h2>
+<h2 align="center">A passionate full stack developer </h2>
 
 
 
