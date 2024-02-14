@@ -3,7 +3,8 @@
 
 
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NodeJS**
+
 
 - 📫 How to reach me **dushakenoella@gmail.com**
 
