@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **php**
 
 
 - 📫 How to reach me **dushakenoella@gmail.com**
