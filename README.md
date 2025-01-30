@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noella Claire d'Assise Dushakimana</h1>
 <h2 align="center">A passionate full stack developer </h2>
-<h2>Check my portifolio<a href="https://devsportifolio.netlify.app/"> HERE</a></h2>
 
 
 
@@ -8,6 +7,8 @@
 
 
 - 📫 How to reach me **dushakenoella@gmail.com**
+- <h3>Check my portifolio<a href="https://devsportifolio.netlify.app/"> HERE</a></h3>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
