@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Strapi**
+- 🌱 I’m currently learning **GO**
 
 
 - 📫 How to reach me **dushakenoella@gmail.com**
