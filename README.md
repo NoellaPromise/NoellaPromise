@@ -10,7 +10,11 @@
 - <h3>Check my portifolio<a href="https://devsportifolio.netlify.app/"> HERE</a></h3>
 
 
-<h3 align="left">🚀 Languages:</h3>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Languages:
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -35,7 +39,10 @@
   </a>
 </p>
 
-<h3 align="left">🛠️ Frameworks & Libraries:</h3>
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Frameworks & Libraries:
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -57,7 +64,15 @@
   </a>
 </p>
 
-<h3 align="left">🗄️ Databases:</h3>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Databases:
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -67,7 +82,10 @@
   </a>
 </p>
 
-<h3 align="left">⚙️ Tools & Technologies:</h3>
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Tools & Technologies:
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -83,7 +101,11 @@
   </a>
 </p>
 
-<h3 align="left">🤝 Connect with me:</h3>
+</td>
+</tr>
+</table>
+
+### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/noella-claire-d-assise-dushakimana-b4a453235/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noella promise" height="30" width="40" />
