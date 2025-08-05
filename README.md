@@ -12,9 +12,9 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="45%" align="center" valign="top">
+<table cellspacing="0" cellpadding="0" style="border: none;">
+<tr style="border: none;">
+<td width="45%" align="center" valign="top" style="border: none;">
 
 ### 🚀 Languages:
 <p align="center">
@@ -48,8 +48,8 @@
 </p>
 
 </td>
-<td width="10%"></td>
-<td width="45%" align="center" valign="top">
+<td width="10%" style="border: none;"></td>
+<td width="45%" align="center" valign="top" style="border: none;">
 
 ### 🛠️ Frameworks & Libraries:
 <p align="center">
@@ -62,7 +62,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://strapi.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/strapi/strapi-original.svg" alt="strapi" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/strapi/strapi-icon.svg" alt="strapi" width="40" height="40"/>
   </a>
   <br><br>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -84,9 +84,9 @@
 
 <br><br>
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="45%" align="center" valign="top">
+<table cellspacing="0" cellpadding="0" style="border: none;">
+<tr style="border: none;">
+<td width="45%" align="center" valign="top" style="border: none;">
 
 ### 🗄️ Databases:
 <p align="center">
@@ -100,8 +100,8 @@
 </p>
 
 </td>
-<td width="10%"></td>
-<td width="45%" align="center" valign="top">
+<td width="10%" style="border: none;"></td>
+<td width="45%" align="center" valign="top" style="border: none;">
 
 ### ⚙️ Tools & Technologies:
 <p align="center">
