@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Noella Claire d'Assise Dushakimana</h1>
+<h1 align="center">Hello There , I'm Noella Claire d'Assise Dushakimana</h1>
 <h2 align="center">A passionate full-stack developer </h2>
 
 
