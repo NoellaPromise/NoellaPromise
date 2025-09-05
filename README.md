@@ -10,9 +10,9 @@
 
 ## 💻 Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
-  
-<div style="flex: 1; min-width: 300px;">
+<table cellspacing="20" cellpadding="0" style="border-collapse: separate; border: none; width: 100%;">
+<tr style="border: none;">
+<td width="50%" align="left" valign="top" style="border: none;">
 
 **Languages:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
@@ -21,9 +21,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
 
-</div>
-
-<div style="flex: 1; min-width: 300px;">
+</td>
+<td width="50%" align="left" valign="top" style="border: none;">
 
 **Frontend & Frameworks:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
@@ -33,13 +32,10 @@
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 
-</div>
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-<div style="flex: 1; min-width: 300px;">
+</td>
+</tr>
+<tr style="border: none;">
+<td width="50%" align="left" valign="top" style="border: none;">
 
 **Backend & Databases:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
@@ -47,9 +43,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
 
-</div>
-
-<div style="flex: 1; min-width: 300px;">
+</td>
+<td width="50%" align="left" valign="top" style="border: none;">
 
 **Tools & Technologies:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> 
@@ -57,9 +52,9 @@
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
